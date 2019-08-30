@@ -1,0 +1,8 @@
+Dresses{
+  width:150px
+  border:2px  solid #eee;
+  box-shadow:2px 2px #ccc;
+  margin:20px;
+  display:inline-block;
+  box-shadow:5px 10px red;
+}
